@@ -1,0 +1,8 @@
+### Bower ###
+bower_components/
+.bower-cache
+.bower-registry
+.bower-tmp
+dist/
+node_modules/
+.DS_Store
